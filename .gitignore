@@ -1,0 +1,6 @@
+.externalToolBuilders
+.settings
+bin
+build.xml
+.classpath
+.project
